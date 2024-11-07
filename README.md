@@ -1,3 +1,4 @@
+#Colourful Critter Quest
 Colourful Critter Quest is an educational children's game that teaches kids ages 2-10 to recognize
  and spell animals, basic colour theory, and simple mathematical calculations. Through a combination of
  entertainment and education. Each of the three topic modules includes at least three different levels: the lowest
