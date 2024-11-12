@@ -1,24 +1,67 @@
 # Colourful Critter Quest
-Colourful Critter Quest is an educational children's game that teaches kids ages 2-10 to recognize
- and spell animals, basic colour theory, and simple mathematical calculations. Through a combination of
- entertainment and education. Each of the three topic modules includes at least three different levels: the lowest
- levels contain multiple choice questions, while the higher level questions require users to spell and type out the
- answers. After each game session, users can save the levels they have already completed. Allowing users to progress 
- throughout the game, reviewing words, calculations, and colour theories they have already learned while learning new 
- concepts.
+Colourful Critter Quest is an educational children's game designed for kids ages 2-10. The game helps young learners recognize and spell animals, understand basic colour theory, and practice simple mathematical calculations. Through a combination of entertainment and education, this game fosters learning in a fun and engaging environment.
 
-This game is built in Python on Visual Studio Code 1.87.2 with the pygame extension, managed and sotred in a Bitbucket repository. 
-Built in functions imported into this game include random, saveGame, sys, pydoc and unittest.
+# Game Features
+### Three Educational Modules:
 
-To download Python, visit https://www.python.org/downloads and download the latest version available in your operatng system 
-(Windows 10 or 11)
-Next, download an IDE to code on that supports Python. In this case, download VSCode by visiting https://code.visualstudio.com/download
-and downloading the version for Windows 10, 11.
-After VSCode has been downloaded, open up the app. Visit the extensions page and install Python with the Microsoft verified domain, as 
-as Pygame Snippets v0.0.1 published by Taiwo Kareem.
+- Animal Recognition
+- Basic Colour Theory
+- Simple Mathematics
+  
+### Progressive Levels:
 
-To run this software, clone the repository into a working IDE with a Pygame extension.
-To run, click the executable file "main.exe"
+- Each module includes at least three levels, progressing from multiple-choice questions to more challenging tasks that require users to spell and type answers.
 
-To start a game, visit load games. You may choose one of the three modules and start with level one. Every time you play, scores will change and 
-be saved in your saved. Next time you want to visit the saved game, visit "Load game" and to start a new game visit "New Game".
+### Save Progress:
+
+- After each game session, users can save their progress. This feature allows them to revisit previous lessons, review what they've learned, and continue advancing through the levels.
+
+
+# Installation Guide
+### Step 1: Install Python
+To run the game, you need Python installed on your computer.
+
+1. Visit the official Python website: Download Python.
+2. Download the latest version for your operating system (Windows 10 or 11).
+3. Follow the installation instructions to complete the setup.
+   
+### Step 2: Install VSCode
+You’ll need a code editor that supports Python. We recommend using Visual Studio Code (VSCode).
+
+1. Visit the official VSCode website: Download VSCode.
+2. Download the version for Windows 10 or 11.
+3. After installation, open VSCode.
+
+### Step 3: Install Python Extension for VSCode
+1. Open the Extensions page in VSCode (Ctrl+Shift+X).
+2. Search for "Python" and install the extension published by Microsoft.
+3. Also, install "Pygame Snippets v0.0.1" by Taiwo Kareem.
+
+# Running the Game
+### Cloning the Repository
+1. Clone the repository into your working directory.
+2. Open the folder containing the game in your IDE (VSCode).
+
+### Executing the Game
+- After opening the project in VSCode, navigate to the **main.exe** file located in the project folder.
+- Click on **main.exe** to launch the game.
+
+# Starting a New Game
+1. **Load Game:** Click on “Load Game” to access your saved games. Here, you can continue playing from where you left off.
+2. **New Game:** Click on “New Game” to start a fresh game session.
+
+# Game Modules
+- **Animal Recognition:** Learn how to identify and spell the names of various animals.
+- **Colour Theory:** Explore the basics of primary and secondary colours and their combinations.
+- **Mathematics:** Practice simple addition and subtraction with engaging visual prompts.
+
+# Saving and Reviewing Progress
+- **Save Progress:** At the end of each session, your progress and scores are saved only if you press the save button.
+- **Review Saved Game:** You can return to your saved games and continue from where you left off.
+  
+# Conclusion
+
+Colourful Critter Quest combines learning with fun! As players progress through different levels, they not only enhance their knowledge of animals, colours, and math, but they also develop critical skills like spelling and problem-solving. The game is designed to keep young learners engaged while providing valuable educational content.
+
+Happy learning and playing!
+
